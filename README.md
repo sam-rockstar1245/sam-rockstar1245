@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sam-rockstar1245
-- 👀 I’m interested in Tech, coding and just new things
+- 👋 Hi, I’m Sandeep
+- 👀 I’m interested in Tech, coding and just new things but by profession i'm pharmacist
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on (open to everything) :)
 - 📫 You can reach me through sam.rockstar1245@gmail.com
